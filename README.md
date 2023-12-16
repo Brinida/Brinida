@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brinda
 - 👀 I’m interested in Web Development, QA(Quality Assurance), and Testing.
-- 🌱 I’m currently learning Web Development and  Automation Testing..
+- 🌱 I’m currently learning Web Development and  Automation.
 - 💞️ 
 - 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/brindasubedi/
